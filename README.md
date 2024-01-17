@@ -14,31 +14,31 @@ This repository contains data related to Diwali sales for a company, along with 
 
 ### diwali_sales_data.csv
 
-User_ID:Unique identifier for each user or customer.
+User_ID: Unique identifier for each user or customer.
 <br>
-Cust_name:Name of the customer making the purchase.
+Cust_name: Name of the customer making the purchase.
 <br>
-Product_ID:Unique identifier for each product sold.
+Product_ID: Unique identifier for each product sold.
 <br>
-Gender:Gender of the customer (e.g., Male, Female).
+Gender: Gender of the customer (e.g., Male, Female).
 <br>
-Age Group:Categorization of customers into age groups.
+Age Group: Categorization of customers into age groups.
 <br>
-Age:Age of the customer.
+Age: Age of the customer.
 <br>
-Marital_Status:Marital status of the customer (e.g., Single, Married).
+Marital_Status: Marital status of the customer (e.g., Single, Married).
 <br>
-State:State or region where the sale occurred.
+State: State or region where the sale occurred.
 <br>
-Zone:Geographic zone or area classification.
+Zone: Geographic zone or area classification.
 <br>
-Occupation:Occupation or profession of the customer.
+Occupation: Occupation or profession of the customer.
 <br>
-Product_Category:Category to which the sold product belongs.
+Product_Category: Category to which the sold product belongs.
 <br>
-Orders:Number of orders placed by the customer.
+Orders: Number of orders placed by the customer.
 <br>
-Amount:Amount or total sales value for each transaction.
+Amount: Amount or total sales value for each transaction.
 
 ## Python Data Exploration
 
